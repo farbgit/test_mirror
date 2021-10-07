@@ -10,3 +10,4 @@ You can look around to get an idea how to structure your project and, when done,
 ## Test1
 ## Test2 - local
 ## Test3 - local
+## Test4 - remote
